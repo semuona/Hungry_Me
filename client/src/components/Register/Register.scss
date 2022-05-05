@@ -1,0 +1,76 @@
+* {
+  box-sizing: border-box;
+}
+.registerForm {
+  margin-top: 130px;
+  width: 45%;
+  height: 60vh;
+  border: 1px solid red;
+  .radioContainer {
+    display: flex;
+    justify-content: space-around;
+    div {
+      display: flex;
+      align-items: center;
+      justify-content: space-evenly;
+      width: 90px;
+    }
+    .owner {
+      width: 150px;
+    }
+  }
+  .clientForm {
+    div {
+      width: 100%;
+      display: flex;
+      margin: 30px 10px;
+      justify-content: flex-start;
+      label {
+        display: block;
+        width: 130px;
+        text-align: left;
+        font-size: 20px;
+      }
+      input {
+        width: 70%;
+      }
+    }
+    button {
+      width: 150px;
+      height: 40px;
+      font-weight: 400;
+      background-color: #dc3545;
+      color: white;
+      font-size: 24px;
+      padding-top: 0px;
+    }
+  }
+  .businessForm {
+    div {
+      width: 100%;
+      display: flex;
+      margin: 30px 10px;
+      justify-content: flex-start;
+      label {
+        display: block;
+        width: 140px;
+        text-align: left;
+        font-size: 20px;
+      }
+      input {
+        width: 70%;
+        border: none;
+        border-bottom: 1px solid black;
+      }
+    }
+    button {
+      width: 150px;
+      height: 40px;
+      font-weight: 400;
+      background-color: #dc3545;
+      color: white;
+      font-size: 24px;
+      padding-top: 0px;
+    }
+  }
+}

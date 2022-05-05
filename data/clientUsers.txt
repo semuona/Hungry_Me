@@ -1,0 +1,340 @@
+[
+	{
+		"id": "1042075",
+		"username": "pasta",
+		"name": "Carbonara",
+		"businessUser": true,
+		"email": "carbonara@gmail.com",
+		"password": "1234",
+		"city": "Paris",
+		"avatar": "https://thumbs.dreamstime.com/b/young-woman-avatar-cartoon-character-profile-picture-young-brunette-woman-short-hair-avatar-cartoon-character-vector-149728784.jpg",
+		"favorites": [
+			{
+				"id": 1,
+				"name": "Umami",
+				"neighborhood": "Manhattan",
+				"imageURL": "https://media-cdn.tripadvisor.com/media/photo-s/1c/2f/33/2d/healthy-bowl-frische.jpg",
+				"address": "171 E Broadway, New York, NY 10002",
+				"cuisine_type": "Asian",
+				"menu": [
+					{
+						"id": 1,
+						"meal": "Asian BBQ Chicken",
+						"price": "8 euros"
+					},
+					{
+						"id": 2,
+						"meal": "Vietnamese Dumplings",
+						"price": "10 euros"
+					},
+					{
+						"id": 3,
+						"meal": "Grilled Fish with rice",
+						"price": "11 euros"
+					},
+					{
+						"id": 4,
+						"meal": "Japanese Prawn Tempura",
+						"price": "6 euros"
+					}
+				]
+			},
+			{
+				"id": 2,
+				"name": "Roma",
+				"neighborhood": "Brooklyn",
+				"imageURL": "https://media.istockphoto.com/photos/chinese-food-blank-background-picture-id545286388?k=20&m=545286388&s=612x612&w=0&h=1zAWEuV5W6SoYtErOkWasELFcAWMKgQEBUsNOoH5znc=",
+				"address": "919 Fulton St, Brooklyn, NY 11238",
+				"cuisine_type": "Italian",
+				"menu": [
+					{
+						"id": 1,
+						"meal": "Margherita Pizza",
+						"price": "8 euros"
+					},
+					{
+						"id": 2,
+						"meal": "Mushroom Risotto",
+						"price": "10 euros"
+					},
+					{
+						"id": 3,
+						"meal": "Pasta Con Pomodoro E Basilico",
+						"price": "11 euros"
+					},
+					{
+						"id": 4,
+						"meal": "Panzenella",
+						"price": "6 euros"
+					}
+				]
+			},
+			{
+				"id": 3,
+				"name": "Kang Ho Dong Baekjeong",
+				"neighborhood": "Manhattan",
+				"imageURL": "https://pervenchecatering.co.uk/wp-content/uploads/2020/08/sushi-japanese-food-catering-pervenche-asian-fusion-food-catering-london-1.jpg",
+				"address": "1 E 32nd St, New York, NY 10016",
+				"cuisine_type": "French",
+				"menu": [
+					{
+						"id": 1,
+						"meal": "Chicken confit",
+						"price": "8 euros"
+					},
+					{
+						"id": 2,
+						"meal": "French onion soup",
+						"price": "10 euros"
+					},
+					{
+						"id": 3,
+						"meal": "Salmon en papillote",
+						"price": "11 euros"
+					},
+					{
+						"id": 4,
+						"meal": "Boeuf bourguignon",
+						"price": "6 euros"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "f3426690-1838-4875-8566-397633b4b11b",
+		"favorites": [
+			{
+				"id": 1,
+				"name": "Umami",
+				"neighborhood": "Manhattan",
+				"imageURL": "https://media-cdn.tripadvisor.com/media/photo-s/1c/2f/33/2d/healthy-bowl-frische.jpg",
+				"address": "171 E Broadway, New York, NY 10002",
+				"cuisine_type": "Asian",
+				"menu": [
+					{
+						"id": 1,
+						"meal": "Asian BBQ Chicken",
+						"price": "8 euros"
+					},
+					{
+						"id": 2,
+						"meal": "Vietnamese Dumplings",
+						"price": "10 euros"
+					},
+					{
+						"id": 3,
+						"meal": "Grilled Fish with rice",
+						"price": "11 euros"
+					},
+					{
+						"id": 4,
+						"meal": "Japanese Prawn Tempura",
+						"price": "6 euros"
+					}
+				]
+			},
+			{
+				"id": 2,
+				"name": "Roma",
+				"neighborhood": "Brooklyn",
+				"imageURL": "https://media.istockphoto.com/photos/chinese-food-blank-background-picture-id545286388?k=20&m=545286388&s=612x612&w=0&h=1zAWEuV5W6SoYtErOkWasELFcAWMKgQEBUsNOoH5znc=",
+				"address": "919 Fulton St, Brooklyn, NY 11238",
+				"cuisine_type": "Italian",
+				"menu": [
+					{
+						"id": 1,
+						"meal": "Margherita Pizza",
+						"price": "8 euros"
+					},
+					{
+						"id": 2,
+						"meal": "Mushroom Risotto",
+						"price": "10 euros"
+					},
+					{
+						"id": 3,
+						"meal": "Pasta Con Pomodoro E Basilico",
+						"price": "11 euros"
+					},
+					{
+						"id": 4,
+						"meal": "Panzenella",
+						"price": "6 euros"
+					}
+				]
+			}
+		],
+		"client": true,
+		"username": "burger",
+		"businessUser": true,
+		"phoneNumber": "+489234482",
+		"firstName": "Harry",
+		"lastName": "Potter",
+		"password": "1234",
+		"email": "burger@gmail.com",
+		"avatar": "https://thumbs.dreamstime.com/b/happy-smiling-geek-hipster-beard-man-cool-avatar-geek-man-avatar-104871313.jpg"
+	},
+	{
+		"id": "68b2a826-9439-4d75-b4a2-9b25081c0a3d",
+		"favorites": [
+			{
+				"id": 4,
+				"name": "Uncle Ben",
+				"neighborhood": "Manhattan",
+				"imageURL": "https://media.istockphoto.com/photos/hamburger-table-scene-top-view-over-dark-wood-picture-id1252796974?b=1&k=20&m=1252796974&s=170667a&w=0&h=bv0YG2MlmdhPcv4Ql8ENmcUNVkiavOjuY7RYJsPZcmo=",
+				"address": "205 E Houston St, New York, NY 10002",
+				"cuisine_type": "American",
+				"menu": [
+					{
+						"id": 1,
+						"meal": "Apple Pie",
+						"price": "8 euros"
+					},
+					{
+						"id": 2,
+						"meal": "The Hamburger",
+						"price": "10 euros"
+					},
+					{
+						"id": 3,
+						"meal": "Texas Barbecue",
+						"price": "11 euros"
+					},
+					{
+						"id": 4,
+						"meal": "Clam Chowder",
+						"price": "6 euros"
+					}
+				]
+			}
+		],
+		"client": true,
+		"username": "pizza",
+		"businessUser": false,
+		"phoneNumber": "+4911111111222",
+		"firstName": "Anna",
+		"lastName": "Scott",
+		"password": "1234",
+		"email": "anna@gmail.com",
+		"avatar": "https://thumbs.dreamstime.com/b/female-user-profile-avatar-woman-character-screen-saver-emotions-website-mobile-app-design-vector-199001739.jpg"
+	},
+	{
+		"id": "12f4a36a-287a-40a4-9a6a-dd07d7493eed",
+		"favorites": [],
+		"client": true,
+		"username": "pasta123",
+		"businessUser": false,
+		"phoneNumber": "",
+		"firstName": "",
+		"lastName": "",
+		"password": "1234",
+		"email": "adventureswithgin2021@gmail.com"
+	},
+	{
+		"id": "3c75b960-f650-419b-99be-623677c0e00d",
+		"favorites": [
+			{
+				"id": 1,
+				"name": "Umami",
+				"neighborhood": "Manhattan",
+				"imageURL": "https://media-cdn.tripadvisor.com/media/photo-s/1c/2f/33/2d/healthy-bowl-frische.jpg",
+				"address": "171 E Broadway, New York, NY 10002",
+				"cuisine_type": "Asian",
+				"menu": [
+					{
+						"id": 1,
+						"meal": "Asian BBQ Chicken",
+						"price": "8 euros"
+					},
+					{
+						"id": 2,
+						"meal": "Vietnamese Dumplings",
+						"price": "10 euros"
+					},
+					{
+						"id": 3,
+						"meal": "Grilled Fish with rice",
+						"price": "11 euros"
+					},
+					{
+						"id": 4,
+						"meal": "Japanese Prawn Tempura",
+						"price": "6 euros"
+					}
+				]
+			},
+			{
+				"id": 2,
+				"name": "Roma",
+				"neighborhood": "Brooklyn",
+				"imageURL": "https://media.istockphoto.com/photos/chinese-food-blank-background-picture-id545286388?k=20&m=545286388&s=612x612&w=0&h=1zAWEuV5W6SoYtErOkWasELFcAWMKgQEBUsNOoH5znc=",
+				"address": "919 Fulton St, Brooklyn, NY 11238",
+				"cuisine_type": "Italian",
+				"menu": [
+					{
+						"id": 1,
+						"meal": "Margherita Pizza",
+						"price": "8 euros"
+					},
+					{
+						"id": 2,
+						"meal": "Mushroom Risotto",
+						"price": "10 euros"
+					},
+					{
+						"id": 3,
+						"meal": "Pasta Con Pomodoro E Basilico",
+						"price": "11 euros"
+					},
+					{
+						"id": 4,
+						"meal": "Panzenella",
+						"price": "6 euros"
+					}
+				]
+			}
+		],
+		"client": true,
+		"username": "PaUL",
+		"businessUser": false,
+		"phoneNumber": "",
+		"firstName": "",
+		"lastName": "",
+		"password": "1234",
+		"email": "PAUÖ@GMAIL.COM"
+	},
+	{
+		"id": "3c75b960-f650-419b-99be-623677c0e00d",
+		"favorites": [],
+		"client": true,
+		"username": "PaUL",
+		"businessUser": false,
+		"phoneNumber": "",
+		"firstName": "",
+		"lastName": "",
+		"password": "1234",
+		"email": "PAUÖ@GMAIL.COM"
+	},
+	{
+		"id": "3c75b960-f650-419b-99be-623677c0e00d",
+		"favorites": [],
+		"client": true,
+		"username": "PaUL",
+		"businessUser": false,
+		"phoneNumber": "",
+		"firstName": "",
+		"lastName": "",
+		"password": "1234",
+		"email": "PAUÖ@GMAIL.COM"
+	},
+	{
+		"username": "simonona",
+		"email": "sim@some.gmail",
+		"password": "1234",
+		"id": "26a73782-dba2-42ab-9349-d14b44e4b478",
+		"favorites": [],
+		"client": true,
+		"businessUser": false
+	}
+]

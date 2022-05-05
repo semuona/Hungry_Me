@@ -1,0 +1,33 @@
+.RestaurantForm {
+    margin-top: 80px;
+    width: 1000px;
+    height: 500px;
+    padding: 50px;
+    * {
+      margin: 5px 0;
+    }
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ flex-direction: column;
+
+  }
+  .input{
+    display: flex;
+    width: 100%;
+    margin-bottom: 20px;
+    border: none;
+    border-bottom: 1px solid black;
+  }
+  .title{
+    margin-bottom: 30px;
+  }
+  .form{
+    border: 1px solid rgb(245, 181, 4);
+    width: 800px;
+    height: 350px;
+    padding: 50px;
+  }
+ 
+
+  
