@@ -64,8 +64,8 @@ const saveRestaurants = () => {
 app.post("/register", (req, res) => {
   try {
     if (!req.body.client) return res.send({ success: false, errorId: 1 }); // username is empty
-    console.log("client is" , req.body.client)
-    console.log("req is" , req.body)
+    console.log("client is", req.body.client);
+    console.log("req is", req.body);
 
     loadClients();
     clients.push(req.body); // add the new user to the array
@@ -78,7 +78,7 @@ app.post("/register", (req, res) => {
 });
 app.post("/addMenu", (req, res) => {
   try {
-    console.log("addMenu: menu ", req.body)
+    console.log("addMenu: menu ", req.body);
 
     if (!req.body) return res.send({ success: false, errorId: 1 }); // menu is empty
     loadRestaurants();
@@ -90,7 +90,6 @@ app.post("/addMenu", (req, res) => {
     res.send(error.message);
   }
 });
-
 
 app.get("/restaurant", (req, res) => {
   try {
